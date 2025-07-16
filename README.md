@@ -38,8 +38,6 @@ U-Tong은 사용자가 자신의 데이터를 주식 방식으로 쉽게 거래�
 
 
 ## 프로젝트 구조
-
-### front-end
 <details>
   <summary> front-end </summary>
 
