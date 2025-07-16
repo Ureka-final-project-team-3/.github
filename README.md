@@ -3,31 +3,6 @@
 
 U-Tong은 사용자가 자신의 데이터를 주식 방식으로 쉽게 거래하고, 실시간 시세 변동과 다양한 거래 기능을 제공하는 웹 플랫폼입니다.
 
-
-## 팀원 소개
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/100756731?v=4" width="100" /><br/>
-      <strong>김현우</strong><br/>
-      <a href="https://github.com/gusdn6288">@gusdn6288</a>
-    </td>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/87470993?v=4" width="100" /><br/>
-      <strong>유동석</strong><br/>
-      <a href="https://github.com/Youdongseok">@Youdongseok</a>
-    </td>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/196130116?v=4" width="100" /><br/>
-      <strong>이채민</strong><br/>
-      <a href="https://github.com/chemnida">@chemnida</a>
-    </td>
-  </tr>
-</table>
-
-
-
 ##  주요 스택
 
 | 구분       | 기술                                                                                                                                                      |
@@ -355,3 +330,85 @@ src
 ```bash
 npm install
 npm run dev
+```
+
+
+## 팀원소개
+<table>
+  <thead>
+    <tr>
+      <th align="center">소속</th>
+      <th align="center">이름</th>
+      <th align="center">역할</th>
+      <th align="left">주요 담당 업무 및 책임</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" rowspan="3"><strong>프론트엔드</strong></td>
+      <td align="center" width="150">
+        <img src="https://avatars.githubusercontent.com/u/100756731?v=4" width="60" /><br/>
+        <strong>김현우</strong><br/>
+        <a href="https://github.com/gusdn6288">@gusdn6288</a>
+      </td>
+      <td align="center">프론트<br/>팀장</td>
+      <td>마이페이지, 충전페이지, 정보수정, 마일리지상점, 기프티콘 보관함, 쿠폰함, 거래내역페이지 구현</td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://avatars.githubusercontent.com/u/87470993?v=4" width="60" /><br/>
+        <strong>유동석</strong><br/>
+        <a href="https://github.com/Youdongseok">@Youdongseok</a>
+      </td>
+      <td align="center">차트<br/>개발자</td>
+      <td>실시간 시세 차트 개발 및 구현, 데이터 판매/구매 거래 기능 설계 및 개발, 이벤트 페이지 구현</td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://avatars.githubusercontent.com/u/196130116?v=4" width="60" /><br/>
+        <strong>이채민</strong><br/>
+        <a href="https://github.com/chemnida">@chemnida</a>
+      </td>
+      <td align="center">디자인<br/>리더</td>
+      <td>스타트, 메인, 로그인, 회원가입, 아이디·비밀번호 찾기, 비밀번호 재설정 페이지 UI 구현 및 API 연동</td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="4"><strong>백엔드</strong></td>
+      <td align="center" width="150">
+        <img src="https://avatars.githubusercontent.com/u/50442066?v=4" width="60" /><br/>
+        <strong>손민혁</strong><br/>
+        <a href="https://github.com/Sonminhyeok">@Sonminhyeok</a>
+      </td>
+      <td align="center">백엔드<br/>팀장</td>
+      <td>Spring Security, OAuth2를 사용한 인증/인가, 선착순 이벤트 쿠폰 발급</td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://avatars.githubusercontent.com/u/80302833?v=4" width="60" /><br/>
+        <strong>신수현</strong><br/>
+        <a href="https://github.com/suhyun9764">@suhyun9764</a>
+      </td>
+      <td align="center">기술<br/>리더</td>
+      <td>개발 환경 인프라 구축, 거래/판매 기능 구현, 실시간 시세 및 거래 데이터(SSE, Kafka) 기능 구현</td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://avatars.githubusercontent.com/u/99180728?v=4" width="60" /><br/>
+        <strong>장승범</strong><br/>
+        <a href="https://github.com/JSeungBeom">@JSeungBeom</a>
+      </td>
+      <td align="center">배포<br/>담당자</td>
+      <td>개발 환경 인프라 구축 (EC2), 어드민 페이지 구축, 스케줄러 구현</td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://avatars.githubusercontent.com/u/198446498?v=4" width="60" /><br/>
+        <strong>이도연</strong><br/>
+        <a href="https://github.com/doyeonLee-Luna">@doyeonLee-Luna</a>
+      </td>
+      <td align="center">API<br/>담당자</td>
+      <td>마이페이지 구현, Payment Service API 연동 결제 시스템 구현, Front-end와 API 연동 담당</td>
+    </tr>
+  </tbody>
+</table>
+
