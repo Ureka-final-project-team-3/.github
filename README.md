@@ -340,7 +340,7 @@ npm run dev
     <tr>
       <th align="center">소속</th>
       <th align="center">이름</th>
-      <th align="center">역할</th>
+      <th align="center" width="130">역할</th>
       <th align="left">주요 담당 업무 및 책임</th>
     </tr>
   </thead>
